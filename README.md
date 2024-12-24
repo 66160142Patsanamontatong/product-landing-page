@@ -9,4 +9,4 @@
 - git commit -m "ทำให้อีโมจิแสดงครับ"
 - git commit -m "คำสั่ง"
 - git push origin main
-- git pull origin main
+- git push
